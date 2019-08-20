@@ -8,3 +8,7 @@ esp8266 non sdk study
 5. git remote add origin (仓库地址)
 6. 若首次新建的仓库是空的（git push -u origin master），否则（git push origin master）
 7. 刷新网页查看项目
+
+github下载一个项目到本地步骤
+
+从github 中删除一个项目步骤
